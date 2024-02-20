@@ -22,8 +22,8 @@ I was a Team Lead on three team projects. I did successful six individual projec
 ### My stats ⭐
 
 <div align="center">
-<img height="150px" alt="Andrii's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kurshatsov-andrii&show_icons=true&theme=transparent"/>
-<img height="150px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurshatsov-andrii&layout=compact&&langs_count=8"/>
+<img height="190px" alt="Andrii's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kurshatsov-andrii&show_icons=true&theme=transparent"/>
+<img height="190px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurshatsov-andrii&layout=compact&&langs_count=8"/>
 </div>
 
 ### Profile views counter 👁️‍🗨️

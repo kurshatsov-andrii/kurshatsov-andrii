@@ -5,9 +5,9 @@ I was a Team Lead on three team projects. I did successful six individual projec
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Maksym_Rudnyi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seoinar/) 
-[![Mail Badge](https://img.shields.io/badge/-@Maksym_Rudnyi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/andres_kurshatsov/) 
-[![Mail Badge](https://img.shields.io/badge/-Maksym_Rudnyi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:andreswebit@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Andrii Kurshatsov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seoinar/) 
+[![Mail Badge](https://img.shields.io/badge/-@Andrii Kurshatsov-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/andres_kurshatsov/) 
+[![Mail Badge](https://img.shields.io/badge/-Andrii Kurshatsov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:andreswebit@gmail.com)
 
 #### Top Technologies
 

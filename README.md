@@ -5,7 +5,7 @@ I was a Team Lead on three team projects. I did successful six individual projec
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andrii_Kurshatsov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seoinar/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Andrii_Kurshatsov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seoinar/)
 [![Instagram Badge](https://img.shields.io/badge/-@Andrii_Kurshatsov-E4405F?style=flat&labelColor=E4405F&logo=instagram&logoColor=white)](https://www.instagram.com/andres_kurshatsov/)
 [![Facebook Badge](https://img.shields.io/badge/-@Andrii_Kurshatsov-0866FF?style=flat&labelColor=0866FF&logo=facebook&logoColor=white)](https://www.facebook.com/andres.kurshatsov)
 [![Mail Badge](https://img.shields.io/badge/-Andrii_Kurshatsov-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:andreswebit@gmail.com)
@@ -22,8 +22,8 @@ I was a Team Lead on three team projects. I did successful six individual projec
 ### My stats ⭐
 
 <div align="center">
-<img height="200px" alt="Andrii's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kurshatsov-andrii&show_icons=true&theme=transparent"/>
-<img height="200px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurshatsov-andrii&layout=compact&&langs_count=8"/>
+<img height="150px" alt="Andrii's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kurshatsov-andrii&show_icons=true&theme=transparent"/>
+<img height="150px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurshatsov-andrii&layout=compact&&langs_count=8"/>
 </div>
 
 ### Profile views counter 👁️‍🗨️
